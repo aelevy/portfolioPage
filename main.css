@@ -1,5 +1,6 @@
 body {
-  background: url("images/footer_lodyas.png"); }
+  background: url("images/footer_lodyas.png");
+  font-family: 'PT Sans', sans-serif; }
 
 .header {
   border-bottom: 3px solid #428bca;
