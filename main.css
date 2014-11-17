@@ -9,6 +9,9 @@ body {
     font-size: 50px;
     margin-left: 25px;
     display: inline-block; }
+  .header .modal-content img {
+    height: 800px;
+    width: 800px; }
   .header ul {
     display: inline-block;
     float: right;
