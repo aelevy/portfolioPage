@@ -9,13 +9,18 @@ body {
     font-size: 50px;
     margin-left: 25px;
     display: inline-block; }
+  .header h2 {
+    display: inline-block;
+    margin-left: 20px; }
+  .header h2:hover {
+    cursor: pointer; }
   .header .modal-content img {
     height: 800px;
     width: 800px; }
   .header ul {
     display: inline-block;
     float: right;
-    padding-top: 20px;
+    padding-top: 25px;
     margin-right: 30px;
     font-size: 20px; }
   .header ul li {
