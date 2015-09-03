@@ -33,14 +33,14 @@ body{
  /* background-image:url("images/Elegant_Background-19.jpg"); */
  /* background-repeat:no-repeat;
  background-size:cover; */
- background-color: #AA3A39;
+ background:url('images/concrete_seamless.png');
  font-family: 'Abril Fatface', cursive;
 }
 main{
  text-align:center;
  margin-top:25px;
  h1{
-  color:white;
+  color:#428bca;
   font-size:3em;
  }
  img{
@@ -72,6 +72,7 @@ main{
 }
 .examples{
  a img{
+  border:3px solid #B2B3BF;
   border-radius:100px;
   display:inline-block;
   height:200px;
