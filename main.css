@@ -54,7 +54,8 @@ main {
     font-size: 2.4em; }
 
 .examplesRow {
-  margin-top: 10px; }
+  margin-top: 10px;
+  text-align: center; }
 
 .examples a img {
   border: 3px solid #B2B3BF;
